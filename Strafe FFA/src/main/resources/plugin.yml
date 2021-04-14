@@ -1,0 +1,18 @@
+main: strafe.ffa.main.Main
+name: StrafeFFA
+version: 1.0
+author: Jeffrey aka Vuzle
+
+commands:
+  arenacreate:
+    description: create your arena
+  FFAarena:
+    description: setup guide for maps
+  ffa:
+    description: setup help!
+  strafeffainfo:
+    description: see who made the plugin
+  nohitdelay:
+    description: changes the hitdelay
+  duel:
+    description: duel each other

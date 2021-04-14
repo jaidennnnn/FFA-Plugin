@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Igneous">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Igneous.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Igneous.jar!/" />
+    </SOURCES>
+  </library>
+</component>
