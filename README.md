@@ -1,5 +1,3 @@
 # FFA-Plugin
 
-Simple FFa Plugin
-
-You also can continue this project if you want to :)
+A fork of Jeffrey's FFA plugin. Bug fixes, optimizations and more.
