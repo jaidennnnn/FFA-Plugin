@@ -1,0 +1,10 @@
+ms\uk\eclipse\commands\FFACommand.class
+ms\uk\eclipse\scoreboard\SetScoreboard.class
+ms\uk\eclipse\managers\FFAManager.class
+ms\uk\eclipse\commands\InfoCommand.class
+ms\uk\eclipse\commands\SpectateCommand.class
+ms\uk\eclipse\managers\PlayerManager.class
+ms\uk\eclipse\commands\DuelCommand.class
+ms\uk\eclipse\config\FileConfiguration.class
+ms\uk\eclipse\FFAPlugin.class
+ms\uk\eclipse\listeners\EventListeners.class
