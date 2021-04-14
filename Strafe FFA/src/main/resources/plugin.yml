@@ -1,7 +1,7 @@
 main: strafe.ffa.main.Main
 name: StrafeFFA
 version: 1.0
-author: Jeffrey aka Vuzle
+author: Jeffrey.
 
 commands:
   arenacreate:
