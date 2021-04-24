@@ -295,7 +295,7 @@ public class EventListeners implements Listener {
 
             case "§cReset-Hitdelay":
                 p.sendMessage("§c§lNoHitDelay Mode is off!");
-                ffaManager.setNoDamageTicks(0);
+                ffaManager.setNoDamageTicks(20);
 
                 for (Player all : Bukkit.getOnlinePlayers()) {
                     all.setMaximumNoDamageTicks(20);
